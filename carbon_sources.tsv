@@ -1,0 +1,7 @@
+id	name	alias	formula	concentration	units
+1	methane	CH4	CH4	10	%
+2	acetate	Kac	CH3CO2K	5	mM
+3	methanol	MetOH	CH3OH	0.5	%
+4	ethanol	EtOH	CH3CH2OH	0.5	%
+5	methane	CH4	CH4	20	%
+6	methane	CH4	CH4	5	%
